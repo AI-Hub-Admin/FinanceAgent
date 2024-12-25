@@ -211,7 +211,7 @@ data_source|moneycontrol.com
 [3 steps to create Financial Chatbot powered by ChatGPT Part 1](http://www.deepnlp.org/blog/financial-chatbot-chatgpt-1) <br>
 
 ## AI Services Reviews and Ratings <br>
-#### AI Agent Marketplace and Search
+##### AI Agent Marketplace and Search
 [AI Agent Marketplace and Search](http://www.deepnlp.org/search/agent) <br>
 [Robot Search](http://www.deepnlp.org/search/robot) <br>
 [Equation and Academic search](http://www.deepnlp.org/search/equation) <br>
@@ -219,7 +219,7 @@ data_source|moneycontrol.com
 [AI & Robot Question](http://www.deepnlp.org/question) <br>
 [AI & Robot Community](http://www.deepnlp.org/community) <br>
 [AI Agent Marketplace Blog](http://www.deepnlp.org/blog/ai-agent-marketplace-and-search-portal-reviews-2025) <br>
-## Reasoning
+##### Reasoning
 [OpenAI o1 Reviews](http://www.deepnlp.org/store/pub/pub-openai-o1) <br>
 [OpenAI o3 Reviews](http://www.deepnlp.org/store/pub/pub-openai-o3) <br>
 ##### Chatbot
