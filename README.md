@@ -219,8 +219,10 @@ data_source|moneycontrol.com
 [AI & Robot Question](http://www.deepnlp.org/question) <br>
 [AI & Robot Community](http://www.deepnlp.org/community) <br>
 [AI Agent Marketplace Blog](http://www.deepnlp.org/blog/ai-agent-marketplace-and-search-portal-reviews-2025) <br>
-##### Chatbot
+## Reasoning
 [OpenAI o1 Reviews](http://www.deepnlp.org/store/pub/pub-openai-o1) <br>
+[OpenAI o3 Reviews](http://www.deepnlp.org/store/pub/pub-openai-o3) <br>
+##### Chatbot
 [ChatGPT User Reviews](http://www.deepnlp.org/store/pub/pub-chatgpt-openai) <br>
 [Gemini User Reviews](http://www.deepnlp.org/store/pub/pub-gemini-google) <br>
 [Perplexity User Reviews](http://www.deepnlp.org/store/pub/pub-perplexity) <br>
